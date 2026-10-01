@@ -14,3 +14,4 @@
 - *Identify 5 different HTML elements: `<html>`, `<head>`, `<body>`, `<div>`, and `<script>`.
 - *Find a form element and list its inputs: The main video search area uses a `<form id="search-form">` action element containing a primary search box input: `<input id="search" type="text" placeholder="Search">`.
 - *Take a screenshot of the Elements panel
+<img width="667" height="908" alt="Screenshot 2026-09-25 200221" src="https://github.com/user-attachments/assets/1242c6d0-8afa-4e97-8f9f-05c64f853d32" />
