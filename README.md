@@ -1,4 +1,4 @@
-# Task 1.2: DevTools Exploration
+# DevTools Exploration
 
 ## Website 1: Example Domain (https://example.com)
 - *What HTML tags are used on the page? `<html>`, `<head>`, `<body>`, `<div>`,`<h1>`, and `<p>`.
@@ -14,4 +14,7 @@
 - *Identify 5 different HTML elements: `<html>`, `<head>`, `<body>`, `<div>`, and `<script>`.
 - *Find a form element and list its inputs: The main video search area uses a `<form id="search-form">` action element containing a primary search box input: `<input id="search" type="text" placeholder="Search">`.
 - *Take a screenshot of the Elements panel
-<img width="667" height="908" alt="Screenshot 2026-09-25 200221" src="https://github.com/user-attachments/assets/1242c6d0-8afa-4e97-8f9f-05c64f853d32" />
+<img width="200" height="400" alt="Screenshot 2026-09-25 200221" src="https://github.com/user-attachments/assets/1242c6d0-8afa-4e97-8f9f-05c64f853d32" />
+
+ ## Live demo
+ [ndush-gif.github.io](https://ndush-gif.github.io/iyf-s12-week-01-Ndush-gif/)
